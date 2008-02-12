@@ -9,7 +9,9 @@ Group:		Development/Python
 %py_requires -d
 
 %description
-GeoTypes is a library that implements the OpenGIS Simple Features Specification for SQL Geometric Object Model and provides parsers for storing and retrieving these objects from Postgis. GeoTypes is an external project by RJT.
+GeoTypes is a library that implements the OpenGIS Simple Features Specification
+for SQL Geometric Object Model and provides parsers for storing and retrieving
+these objects from Postgis. GeoTypes is an external project by RJT.
 
 %prep
 %setup -q -n GeoTypes-%{version} 
