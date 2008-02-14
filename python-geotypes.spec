@@ -6,6 +6,7 @@ Source: http://initd.org/svn/psycopg/geotypes/releases/GeoTypes-%{version}.tar.g
 URL: http://initd.org/tracker/psycopg/wiki
 License: GPL
 Group:		Development/Python
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 %py_requires -d
 
 %description
