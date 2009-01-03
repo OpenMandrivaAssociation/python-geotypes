@@ -1,6 +1,6 @@
 Name: python-geotypes
 Version: 0.7.0
-Release: %mkrel 5
+Release: %mkrel 6
 Summary: Library that implements the OpenGIS 
 Source: http://initd.org/svn/psycopg/geotypes/releases/GeoTypes-%{version}.tar.gz 
 URL: http://initd.org/tracker/psycopg/wiki
