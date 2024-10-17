@@ -4,7 +4,7 @@ Release: 9
 Summary: Library that implements the OpenGIS 
 
 Source: http://initd.org/svn/psycopg/geotypes/releases/GeoTypes-%{version}.tar.gz 
-URL: http://initd.org/tracker/psycopg/wiki
+URL: https://initd.org/tracker/psycopg/wiki
 License: GPL
 Group:		Development/Python
 BuildRequires:  python-devel
